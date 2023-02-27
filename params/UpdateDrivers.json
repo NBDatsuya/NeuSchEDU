@@ -1,0 +1,5 @@
+{
+  "edge": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/",
+  "firefox": "https://github.com/mozilla/geckodriver/releases/",
+  "chrome": "https://chromedriver.storage.googleapis.com/index.html"
+}
